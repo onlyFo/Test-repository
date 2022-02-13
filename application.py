@@ -1,3 +1,4 @@
 print("Salam")
 print("Molekulam")
-print("world!!")
+int a = 47
+//Hello
