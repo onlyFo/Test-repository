@@ -1,4 +1,7 @@
 print("Salam")
 print("Molekulam")
+
 int a = 47
-//Hello
+int b = 31
+int res = a+b
+print(res)
